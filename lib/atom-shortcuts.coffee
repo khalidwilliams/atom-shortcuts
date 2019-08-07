@@ -87,7 +87,7 @@ module.exports = AtomShortcuts =
       <div class='section'>
         <h2>View/Window Manipulation</h2>
         <div class='item'>
-          <p><b>⌘+ \</b></p>
+          <p><b>⌘+ \\</b></p>
           Toggle tree-view sidebar
         </div>
         <div class='item'>
